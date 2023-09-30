@@ -57,9 +57,9 @@ This was the level-up track for React Native by Webknot, with the aim for improv
 - Redux (State container for application state management).
 - AsyncStorage, Redis (In-mem data storage).
 
-| links                                                     |
-| --------------------------------------------------------- |
-| [level-up-track](.\assets\WK-ReactNative-LevelUp-Doc.pdf) |
+| links                                                   |
+| ------------------------------------------------------- |
+| [level-up-track](assets\WK-ReactNative-LevelUp-Doc.pdf) |
 
 #
 
