@@ -59,7 +59,7 @@ This was the level-up track for React Native by Webknot, with the aim for improv
 
 | links                                                   |
 | ------------------------------------------------------- |
-| [level-up-track](assets\WK-ReactNative-LevelUp-Doc.pdf) |
+| [level-up-track](assets/WK-ReactNative-LevelUp-Doc.pdf) |
 
 #
 
